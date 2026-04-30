@@ -7,7 +7,7 @@ Algoritma yang digunakan adalah Bubble Sort, yaitu metode sorting yang bekerja d
 
 
 ## Source Code
-<img width="611" height="297" alt="Screenshot 2026-04-30 200600" src="https://github.com/user-attachments/assets/c8dcefac-02fb-4e87-a8ba-81cffa53fc94" />
+<img width="611" height="290" alt="Screenshot 2026-04-30 200600" src="https://github.com/user-attachments/assets/a9c0651c-8b7f-4a91-86ff-89d730c5c6e2" />
 <br></br>
 <img width="632" height="767" alt="Screenshot 2026-04-30 200609" src="https://github.com/user-attachments/assets/5341bb1e-af81-4afd-b4f3-a35027e08805" />
 
