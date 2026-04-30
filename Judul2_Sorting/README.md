@@ -5,12 +5,13 @@ Program ini merupakan implementasi algoritma **Bubble Sort** pada studi kasus pe
 
 Algoritma yang digunakan adalah Bubble Sort, yaitu metode sorting yang bekerja dengan melakukan perbandingan berulang sampai seluruh data terurut.
 
----
 
 ## Source Code
-> Tambahkan screenshot source code di sini
+<img width="611" height="297" alt="Screenshot 2026-04-30 200600" src="https://github.com/user-attachments/assets/c8dcefac-02fb-4e87-a8ba-81cffa53fc94" />
+<br></br>
+<img width="632" height="767" alt="Screenshot 2026-04-30 200609" src="https://github.com/user-attachments/assets/5341bb1e-af81-4afd-b4f3-a35027e08805" />
 
----
+
 
 ## Penjelasan Kode
 
@@ -30,10 +31,13 @@ Algoritma yang digunakan adalah Bubble Sort, yaitu metode sorting yang bekerja d
 - Memanggil Bubble Sort
 - Menampilkan hasil setelah sorting
 
----
+
 
 ## Output Program
-> Tambahkan screenshot output di sini
+<img width="244" height="175" alt="Screenshot 2026-04-30 201027" src="https://github.com/user-attachments/assets/7b9a94e5-1057-43d3-a85e-f1ed2d6cc64a" />
+<br></br>
+<img width="452" height="130" alt="Screenshot 2026-04-30 201037" src="https://github.com/user-attachments/assets/01aca401-84e7-4660-9bf3-4d5a37d1c0dc" />
+
 
 ### Penjelasan Output
 Contoh input:
