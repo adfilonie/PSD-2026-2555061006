@@ -1,6 +1,5 @@
 # Implementasi Bubble Sort pada Pengurutan Nilai Siswa
 
-## Deskripsi Singkat
 Program ini merupakan implementasi algoritma **Bubble Sort** pada studi kasus pengurutan nilai siswa. Program digunakan untuk mengurutkan nilai dari yang terkecil ke terbesar dengan membandingkan dua elemen bersebelahan lalu menukarnya jika urutannya salah.
 
 Algoritma yang digunakan adalah Bubble Sort, yaitu metode sorting yang bekerja dengan melakukan perbandingan berulang sampai seluruh data terurut.
@@ -16,7 +15,7 @@ Algoritma yang digunakan adalah Bubble Sort, yaitu metode sorting yang bekerja d
 ## Penjelasan Kode
 
 ### Fungsi `tukar`
-- Menukar posisi dua elemen dalam array.
+- Menukar posisi dua elemen dalam array dan menyimpan array sementara.
 
 ### Fungsi `bubble_sort`
 - Melakukan proses pengurutan data.
