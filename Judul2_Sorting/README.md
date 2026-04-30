@@ -42,15 +42,17 @@ Algoritma yang digunakan adalah Bubble Sort, yaitu metode sorting yang bekerja d
 ### Penjelasan Output
 Contoh input:
 ```text
+56
 78
-90
-65
-85
+91
+80
+75
+30
 ```
 
 Output:
 ```text
-65 78 85 90
+30 56 75 78 80 91
 ```
 
 Artinya nilai berhasil diurutkan dari terendah ke tertinggi menggunakan Bubble Sort.
@@ -58,4 +60,5 @@ Artinya nilai berhasil diurutkan dari terendah ke tertinggi menggunakan Bubble S
 ---
 
 ## Link YouTube
-🎥 Demo Program:  
+
+[Klik di sini untuk melihat video demo](https://youtu.be/OC_LxAsTDgQ?si=Kv3jzHzXONXWONz1) 
