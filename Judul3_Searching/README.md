@@ -6,7 +6,8 @@ Algoritma ini cocok digunakan untuk data yang tidak terlalu besar dan tidak haru
 
 
 ## Source Code
-> Tambahkan screenshot kode di sini
+<img width="596" height="667" alt="Screenshot 2026-05-06 212459" src="https://github.com/user-attachments/assets/a50d0f28-98a5-4f5e-b4a6-2c6409635a35" />
+<br></br>
 
 
 ## Penjelasan Kode
@@ -14,9 +15,7 @@ Algoritma ini cocok digunakan untuk data yang tidak terlalu besar dan tidak haru
 ### Fungsi `sequential_search`
 - Melakukan pencarian nama dalam list absensi
 - Mengecek setiap elemen satu per satu
-- Menggunakan:
-  - `strip()` → menghapus spasi berlebih
-  - `casefold()` → menyamakan huruf (biar tidak case-sensitive)
+- Menggunakan `lower()` untuk menyamakan huruf agar tidak sensitif terhadap huruf besar/kecil
 - Jika ditemukan → return `True`
 - Jika tidak → return `False`
 
@@ -29,9 +28,14 @@ Algoritma ini cocok digunakan untuk data yang tidak terlalu besar dan tidak haru
 
 
 ## Output Program
-> Tambahkan screenshot output di sini
+### Output Jika Mahasiswa Hadir (Nama ada pada Array)
+<img width="598" height="142" alt="Screenshot 2026-05-06 212040" src="https://github.com/user-attachments/assets/a3eb876e-a9ab-4ee5-961a-d59b711cd820" />
 
-### Contoh
-Input:
-```text
-dave
+### Output Jika Mahasiswa Tidak Hadir (Nama tidak ada pada array)
+<img width="610" height="145" alt="Screenshot 2026-05-06 212047" src="https://github.com/user-attachments/assets/1e661e55-893f-403b-8104-195d68ce1343" />
+
+
+### Penjelasan Output
+<p align="justify">
+Program akan menampilkan daftar absensi yang sudah tersedia, kemudian pengguna diminta memasukkan nama mahasiswa. Jika nama yang dimasukkan terdapat dalam daftar, maka program akan menampilkan pesan bahwa mahasiswa tersebut hadir. Sebaliknya, jika nama tidak ditemukan, maka akan ditampilkan bahwa mahasiswa tidak hadir. Program juga menggunakan <code>lower()</code> sehingga perbedaan huruf besar dan kecil tidak mempengaruhi hasil pencarian.
+</p>
