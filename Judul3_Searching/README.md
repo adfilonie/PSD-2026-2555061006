@@ -39,3 +39,6 @@ Algoritma ini cocok digunakan untuk data yang tidak terlalu besar dan tidak haru
 <p align="justify">
 Program akan menampilkan daftar absensi yang sudah tersedia, kemudian pengguna diminta memasukkan nama mahasiswa. Jika nama yang dimasukkan terdapat dalam daftar, maka program akan menampilkan pesan bahwa mahasiswa tersebut hadir. Sebaliknya, jika nama tidak ditemukan, maka akan ditampilkan bahwa mahasiswa tidak hadir. Program juga menggunakan <code>lower()</code> sehingga perbedaan huruf besar dan kecil tidak mempengaruhi hasil pencarian.
 </p>
+
+## Link YouTube
+[Klik di sini untuk melihat video demo](https://youtu.be/mjZYkL5CSDQ?si=V5Z_l0PiHZStyVWb) 
