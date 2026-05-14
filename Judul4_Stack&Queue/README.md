@@ -11,8 +11,21 @@ Konsep yang digunakan adalah <b>FIFO (First In First Out)</b>, yaitu dokumen yan
 
 ## Source Code
 
-> Tambahkan screenshot source code di sini
+<img width="353" height="128" alt="Screenshot 2026-05-14 222105" src="https://github.com/user-attachments/assets/bb8d8057-4eea-43f8-ad46-ffd3e4794c88" />
 
+<br><br>
+
+<img width="594" height="783" alt="Screenshot 2026-05-14 222117" src="https://github.com/user-attachments/assets/967301a0-b73e-4266-a70e-19cbc7024f2a" />
+
+<br><br>
+
+<img width="561" height="507" alt="Screenshot 2026-05-14 222129" src="https://github.com/user-attachments/assets/67aa7b9f-ab78-4476-8000-d7f2546a5bba" />
+
+<br><br>
+
+<img width="478" height="859" alt="Screenshot 2026-05-14 222145" src="https://github.com/user-attachments/assets/e361e74b-5bdc-447e-b2bc-b0076e4dcaea" />
+
+<br><br>
 
 ## Penjelasan Kode
 
@@ -63,7 +76,24 @@ Konsep yang digunakan adalah <b>FIFO (First In First Out)</b>, yaitu dokumen yan
 
 ## Output Program
 
-> Tambahkan screenshot output program di sini
+<img width="317" height="504" alt="Screenshot 2026-05-14 222247" src="https://github.com/user-attachments/assets/b354c822-8a27-4e19-a82a-29964a4b6a08" />
+
+<br><br>
+
+<img width="293" height="155" alt="Screenshot 2026-05-14 222303" src="https://github.com/user-attachments/assets/efba7187-aef4-4074-b2aa-4b4d9d489c41" />
+
+<br><br>
+
+<img width="247" height="150" alt="Screenshot 2026-05-14 222319" src="https://github.com/user-attachments/assets/dcfbaceb-8494-476f-9f1d-f668551019bc" />
+
+<br><br>
+
+<img width="276" height="153" alt="Screenshot 2026-05-14 222334" src="https://github.com/user-attachments/assets/4f2b4b49-71e0-47fb-b511-75273491ceaf" />
+
+<br><br>
+
+<img width="314" height="174" alt="Screenshot 2026-05-14 222345" src="https://github.com/user-attachments/assets/8ef1c6f6-4b4d-459a-b421-32142f3970c6" />
+
 
 ### Penjelasan Output
 
@@ -75,28 +105,7 @@ Program akan menampilkan menu interaktif untuk mengelola antrian printer. Penggu
 Dokumen yang pertama masuk akan dicetak terlebih dahulu sesuai konsep FIFO (First In First Out). Jika antrian kosong, program akan menampilkan pesan bahwa tidak ada dokumen yang tersedia.
 </p>
 
-### Contoh Output
-
-Input:
-```text
-1
-Tugas_AI.pdf
-
-1
-Laporan_StrukturData.docx
-
-4
-```
-
-Output:
-```text
-Daftar antrian dokumen:
-Tugas_AI.pdf -> Laporan_StrukturData.docx -> None
-```
-
----
-
 ## Link YouTube
 
 Demo Program:  
-[Klik disini utk melihat demo]()
+[Klik disini utk melihat demo](https://youtu.be/m9CzbpjTdpI?si=R1_D8Ej0wtCpvH3j)
