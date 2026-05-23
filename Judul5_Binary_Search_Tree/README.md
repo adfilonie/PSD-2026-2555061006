@@ -156,7 +156,6 @@ Data dalam BST akan tersusun otomatis berdasarkan aturan Binary Search Tree sehi
 
 
 
-## 📌 Link YouTube
+## Link YouTube
 
-🎥 Demo Program:  
-https://youtube.com/ISI_LINK_VIDEO
+[Klik disini utk melihat demo](https://youtu.be/Aj025XYW2ls?si=rOBCOhtu91cMoji4)
