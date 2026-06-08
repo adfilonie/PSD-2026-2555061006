@@ -11,10 +11,16 @@ HashMap bekerja dengan menggunakan fungsi hash untuk menentukan posisi penyimpan
 
 ## Source Code
 
-> Tambahkan screenshot source code di sini
-
+<img width="640" height="477" alt="Screenshot 2026-06-08 231757" src="https://github.com/user-attachments/assets/5a819851-83ff-417c-a8ec-5acf7c13e5fe" />
 <br>
-
+<img width="574" height="869" alt="Screenshot 2026-06-08 231742" src="https://github.com/user-attachments/assets/95cea171-329e-4cfd-9984-cca0530b06bf" />
+<br>
+<img width="558" height="385" alt="Screenshot 2026-06-08 231731" src="https://github.com/user-attachments/assets/03a7b1a6-e0c7-4e2c-8eb9-35fe46535115" />
+<br>
+<img width="806" height="661" alt="Screenshot 2026-06-08 231718" src="https://github.com/user-attachments/assets/21984338-ede5-470b-8673-ef848389d761" />
+<br>
+<img width="687" height="827" alt="Screenshot 2026-06-08 231700" src="https://github.com/user-attachments/assets/986aef24-7642-4ad1-9f55-0f3ec12d7a8a" />
+<br>
 
 ## Penjelasan Kode
 
@@ -77,7 +83,8 @@ HashMap bekerja dengan menggunakan fungsi hash untuk menentukan posisi penyimpan
 
 ## Output Program
 
-> Tambahkan screenshot output program di sini
+<img width="403" height="643" alt="Screenshot 2026-06-08 231647" src="https://github.com/user-attachments/assets/840710b0-4d6b-4735-a710-99726f4b019d" />
+
 
 <br>
 
@@ -90,28 +97,6 @@ Program akan menampilkan data produk yang tersimpan di dalam hash table. Penggun
 <p align="justify">
 Jika terjadi collision, program akan mencari slot kosong berikutnya menggunakan metode Linear Probing sehingga data tetap dapat disimpan tanpa menimpa data lain.
 </p>
-
-
-### Contoh Output
-
-Input:
-
-```text
-Tambah produk:
-101 → 5000
-111 → 12000
-121 → 7000
-```
-
-Output:
-
-```text
-Data Produk Minimarket:
-0: EMPTY
-1: (Kode: 101, Harga: 5000)
-2: (Kode: 111, Harga: 12000)
-3: (Kode: 121, Harga: 7000)
-```
 
 
 ## Link YouTube
