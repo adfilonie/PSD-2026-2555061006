@@ -12,15 +12,15 @@ HashMap bekerja dengan menggunakan fungsi hash untuk menentukan posisi penyimpan
 ## Source Code
 
 <img width="640" height="477" alt="Screenshot 2026-06-08 231757" src="https://github.com/user-attachments/assets/5a819851-83ff-417c-a8ec-5acf7c13e5fe" />
-<br>
+<br></br>
 <img width="574" height="869" alt="Screenshot 2026-06-08 231742" src="https://github.com/user-attachments/assets/95cea171-329e-4cfd-9984-cca0530b06bf" />
-<br>
+<br></br>
 <img width="558" height="385" alt="Screenshot 2026-06-08 231731" src="https://github.com/user-attachments/assets/03a7b1a6-e0c7-4e2c-8eb9-35fe46535115" />
-<br>
+<br></br>
 <img width="806" height="661" alt="Screenshot 2026-06-08 231718" src="https://github.com/user-attachments/assets/21984338-ede5-470b-8673-ef848389d761" />
-<br>
+<br></br>
 <img width="687" height="827" alt="Screenshot 2026-06-08 231700" src="https://github.com/user-attachments/assets/986aef24-7642-4ad1-9f55-0f3ec12d7a8a" />
-<br>
+<br></br>
 
 ## Penjelasan Kode
 
@@ -84,9 +84,7 @@ HashMap bekerja dengan menggunakan fungsi hash untuk menentukan posisi penyimpan
 ## Output Program
 
 <img width="403" height="643" alt="Screenshot 2026-06-08 231647" src="https://github.com/user-attachments/assets/840710b0-4d6b-4735-a710-99726f4b019d" />
-
-
-<br>
+<br></br>
 
 ### Penjelasan Output
 
@@ -102,4 +100,4 @@ Jika terjadi collision, program akan mencari slot kosong berikutnya menggunakan 
 ## Link YouTube
 
 Demo Program:
-https://youtu.be/0vN7ALuF0rM?si=ykCIKE0q3_NcixUv
+[Klik disini utk melihat demo](https://youtu.be/5QEKLLFS48Y?si=E3f0psqtOfMAxGpg)
